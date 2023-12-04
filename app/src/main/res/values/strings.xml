@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quizmaker Home Screen</string>
+
+    <string name="welcome">Welcome to the Quiz Maker. Please create a question before starting the quiz.</string>
+    <string name="title_create_quiz">Create Quiz</string>
+    <string name="title_play_quiz">Play Quiz</string>
+    <string name="create_quiz">CREATE QUIZ</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="create_quiz_here">Create your quiz here</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="create">CREATE</string>
+
+    <string name="confirm_answer">CONFIRM ANSWER</string>
+
+    <string name="successfully_created_quiz">Quiz was successfully created!</string>
+    <string name="answer_correct">Answer to the quiz question is correct.</string>
+    <string name="answer_incorrect">Answer to the quiz question is incorrect, must be %1$s</string>
+</resources>
